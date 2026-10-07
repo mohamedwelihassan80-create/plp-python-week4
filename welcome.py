@@ -3,7 +3,7 @@
 
 # step 2
 def welcome(name):
-    return "Hello, " + name + "! Welcome to PLP."
+    return f"Hello, {name}! Welcome to PLP."
 
 
 # step 3

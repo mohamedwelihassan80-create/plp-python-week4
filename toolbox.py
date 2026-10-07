@@ -9,7 +9,7 @@ def is_pass(score):
 
 # Function 3 - greet
 def greet(name,  greeting="Hello"):
-    return greeting + ", " + name + "!"
+    return f"{greeting}, {name}!"
 
 
 
